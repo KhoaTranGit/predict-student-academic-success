@@ -1,1 +1,1 @@
-# predict-student-academic-success
+# Predicting Students' Academic Success
